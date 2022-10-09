@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3d0ae128a",
+  "policyUUID": "d0ae128a",
+  "bucketName": "ridenuber355fbc683473492aa7914f0e583decca",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
